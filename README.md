@@ -1,4 +1,4 @@
-# 基于HMM和Viterbi算法的词性标注（NLP-Part-Of-Speech-tagging）
+# 基于HMM和Viterbi算法的中文词性标注（NLP-Part-Of-Speech-tagging）
 如何利用HMM+Viterbi算法进行人民日报语料库的中文词性标注。
 
 # 理论描述
